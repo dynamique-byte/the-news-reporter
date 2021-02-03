@@ -37,9 +37,15 @@ https://the-news-reporter.netlify.app
 - Alan AI Studio: https://alan.app
 - API news: https://newsapi.org/
 
-### Screenshot
+### Logo
 
 <img src="https://github.com/5ilenceSeeker/the-news-reporter/blob/main/Screenshots/news1.png" />
+
+### Screenshots
+
+<img src="https://github.com/5ilenceSeeker/the-news-reporter/blob/main/Screenshots/news3.png" />
+
+<img src="" />
 
 ### Set up
 
