@@ -39,7 +39,7 @@ https://the-news-reporter.netlify.app
 
 ### Screenshot
 
-<img src="" />
+<img src="https://github.com/5ilenceSeeker/the-news-reporter/blob/main/Screenshots/news1.png" />
 
 ### Set up
 
