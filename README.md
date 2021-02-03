@@ -45,7 +45,7 @@ https://the-news-reporter.netlify.app
 
 <img src="https://github.com/5ilenceSeeker/the-news-reporter/blob/main/Screenshots/news3.png" />
 
-<img src="" />
+<img src="https://github.com/5ilenceSeeker/the-news-reporter/blob/main/Screenshots/news2.png" />
 
 ### Set up
 
